@@ -1,2 +1,5 @@
-package myapp;public class Z {
+package myapp;
+
+public class Z {
+    private int xxx;
 }
