@@ -1,5 +1,5 @@
 package myapp;
 
 public class Cat {
-    private int health;
+    private int health = 99;
 }
